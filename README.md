@@ -13,7 +13,7 @@ The company **Cristal Magic Studio Ltd** which owns https://virtualpiano.net web
 ## Demonstration
 [**YouTube**](https://www.youtube.com/watch?v=jFusXg5g1Gw)
 
-## Screenshots
+## Screenshots?
 ### Piano
 ![alt text](https://raw.githubusercontent.com/ArmanYeghiazaryan/VirtualPiano/master/screenshots/piano.gif "Piano")
 ### Sheets
